@@ -1,3 +1,6 @@
+"""
+constants used in the framework
+"""
 import os
 
 # capabilities = dict(
